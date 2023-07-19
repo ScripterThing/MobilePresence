@@ -10,7 +10,7 @@
         "version": "0.0.1",
         "description": "Makes discord think you're on your phone",
         "github": "https://github.com/ScripterThing/MobilePresence",
-        "github_raw": ""
+        "github_raw": "https://raw.githubusercontent.com/ScripterThing/MobilePresence/main/src/MobilePresence/index.js"
     },
     "changelog": [
         {"title": "Verion 1", "type": "creation", "items": ["Context menu should show up again."]}
