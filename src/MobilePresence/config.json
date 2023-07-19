@@ -1,0 +1,19 @@
+{
+    "info": {
+        "name": "MobilePresense",
+        "authors": [{
+            "name": "ScripterThing",
+            "discord_id": "760662693815648326",
+            "github_username": "ScripterThing",
+            "twitter_username": "ScripterThing"
+        }],
+        "version": "0.0.1",
+        "description": "Makes discord think you're on your phone",
+        "github": "https://github.com/ScripterThing/MobilePresence",
+        "github_raw": ""
+    },
+    "changelog": [
+        {"title": "Verion 1", "type": "creation", "items": ["Context menu should show up again."]}
+    ],
+    "main": "index.js"
+}

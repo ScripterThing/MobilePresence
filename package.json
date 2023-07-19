@@ -1,0 +1,18 @@
+{
+  "name": "bdppl",
+  "version": "1.0.0",
+  "description": "Makes discord think you're on your phone",
+  "main": "MobilePresence.plugin.js",
+  "scripts": {
+    "build": "zpl build",
+    "init": "zpl init"
+  },
+  "keywords": [],
+  "author": "ScripterThing",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "zerespluginlibrary": "^2.0.6"
+  }
+}
